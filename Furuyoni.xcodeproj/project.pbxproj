@@ -40,7 +40,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2C1778841CE0A9EA00BB8AD0 /* Sakuyoni.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sakuyoni.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2C1778841CE0A9EA00BB8AD0 /* Furuyoni.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Furuyoni.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C1778921CE0A9EA00BB8AD0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2C1778991CE0AA7C00BB8AD0 /* Main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Main.cpp; sourceTree = "<group>"; };
 		2C1778A21CE0B65500BB8AD0 /* icon.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = icon.icns; sourceTree = "<group>"; };
@@ -127,7 +127,7 @@
 		2C1778851CE0A9EA00BB8AD0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2C1778841CE0A9EA00BB8AD0 /* Sakuyoni.app */,
+				2C1778841CE0A9EA00BB8AD0 /* Furuyoni.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -177,9 +177,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2C1778831CE0A9EA00BB8AD0 /* Sakuyoni */ = {
+		2C1778831CE0A9EA00BB8AD0 /* Furuyoni */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2C1778931CE0A9EA00BB8AD0 /* Build configuration list for PBXNativeTarget "Sakuyoni" */;
+			buildConfigurationList = 2C1778931CE0A9EA00BB8AD0 /* Build configuration list for PBXNativeTarget "Furuyoni" */;
 			buildPhases = (
 				2C1778801CE0A9EA00BB8AD0 /* Sources */,
 				2C1778811CE0A9EA00BB8AD0 /* Frameworks */,
@@ -189,9 +189,9 @@
 			);
 			dependencies = (
 			);
-			name = Sakuyoni;
+			name = Furuyoni;
 			productName = empty;
-			productReference = 2C1778841CE0A9EA00BB8AD0 /* Sakuyoni.app */;
+			productReference = 2C1778841CE0A9EA00BB8AD0 /* Furuyoni.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -207,7 +207,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 2C17787D1CE0A9D800BB8AD0 /* Build configuration list for PBXProject "Sakuyoni" */;
+			buildConfigurationList = 2C17787D1CE0A9D800BB8AD0 /* Build configuration list for PBXProject "Furuyoni" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -220,7 +220,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2C1778831CE0A9EA00BB8AD0 /* Sakuyoni */,
+				2C1778831CE0A9EA00BB8AD0 /* Furuyoni */,
 			);
 		};
 /* End PBXProject section */
@@ -486,7 +486,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2C17787D1CE0A9D800BB8AD0 /* Build configuration list for PBXProject "Sakuyoni" */ = {
+		2C17787D1CE0A9D800BB8AD0 /* Build configuration list for PBXProject "Furuyoni" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2C17787E1CE0A9D800BB8AD0 /* Debug */,
@@ -495,7 +495,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2C1778931CE0A9EA00BB8AD0 /* Build configuration list for PBXNativeTarget "Sakuyoni" */ = {
+		2C1778931CE0A9EA00BB8AD0 /* Build configuration list for PBXNativeTarget "Furuyoni" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2C1778941CE0A9EA00BB8AD0 /* Debug */,
